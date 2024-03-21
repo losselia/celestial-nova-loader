@@ -1,0 +1,23 @@
+{
+  "name": "celestial-nova-loader",
+  "version": "1.0.2",
+  "description": "A loader component for React applications",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/losselia/celestial-nova-loader"
+  },
+  "keywords": [
+    "react",
+    "loader",
+    "spinner"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-loader-spinner": "^4.0.0"
+  }
+}
